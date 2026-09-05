@@ -23,3 +23,4 @@ themes/
 # TypeScript declaration files for standard ESM consumption
 src/**/*.d.ts
 src/**/*.d.ts.map
+config.bat
